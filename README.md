@@ -1,5 +1,5 @@
-# DSA-PROBLEMS-JAVA
-# DSA Problems - Java
+# DSA Problems 
+#Language - Java
 
 My journey of mastering Data Structures and Algorithms using Java.
 
