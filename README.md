@@ -1,5 +1,4 @@
 # DSA Problems 
-#Language - Java
 
 My journey of mastering Data Structures and Algorithms using Java.
 
